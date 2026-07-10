@@ -39,7 +39,7 @@
 
 ### 璇曠敤鐢宠
 
-> 鈿狅笍 **娉ㄦ剰**锛歔qtphone.com/trial](https://www.qtphone.com/trial) 褰撳墠姝ｅ湪缁存姢涓€?
+> 鈿狅笍 **娉ㄦ剰**锛歔qtphone.com](https://www.qtphone.com) 褰撳墠姝ｅ湪缁存姢涓€?
 **璇曠敤鍏ュ彛锛?*
 
 - 馃寪 瀹樼綉棣栭〉锛歔https://www.qtphone.com](https://www.qtphone.com)
