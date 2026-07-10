@@ -1,5 +1,5 @@
-# QTPhone — 全球独立IP云安卓平台
-> **每一台云手机配备独立公网IP，全球部署，环境隔离，助力跨境社媒增长。**
+# QTPhone — Global Independent IP Cloud Android Platform
+> **Every cloud phone comes with a dedicated public IP. Worldwide deployment, environment isolation, powering your cross-border social media growth.**
 
 [![Platform](https://img.shields.io/badge/Platform-Android%20Cloud%20Phone-blue.svg)](https://www.qtphone.com)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://www.qtphone.com)
@@ -7,97 +7,97 @@
 
 ---
 
-## 核心卖点
+## Key Features
 
-| 功能 | 说明 |
-|------|------|
-| 独立公网IP | 每台设备独享韩国/日本/美国等独立IP，避免账号关联封号 |
-| 一键多开 | 单账号管理数百台云手机，批量操作，矩阵运营 |
-| 24/7 云端挂机 | 无需本地设备，云端持续运行，适合AFK挂机、自动任务 |
-| 环境隔离 | 每台设备独立IMEI / MAC / GPS / DeviceID，模拟真实设备 |
-| 全球节点 | 韩国、日本、美国、香港等多地区节点，就近部署 |
-
----
-
-## 适用场景
-
-- **跨境电商** — TikTok Shop、Shopee、Lazada 多店铺矩阵运营
-- **社媒营销** — TikTok、Instagram、Facebook 多账号管理
-- **游戏挂机** — 手游AFK、自动任务、资源采集
-- **应用测试** — 全球多地区真机环境测试
-- **数据采集** — 海外电商、社媒数据抓取
+| Feature | Description |
+|---------|-------------|
+| Dedicated Public IP | Each device gets an independent IP (Korea, Japan, US, etc.). No account association bans. |
+| One-Click Multi-Instance | Manage hundreds of cloud phones from one account. Bulk operations, matrix marketing. |
+| 24/7 Cloud AFK | No local hardware needed. Run continuously in the cloud for idle farming and automation. |
+| Environment Isolation | Unique IMEI / MAC / GPS / DeviceID per device. Simulates real physical devices. |
+| Global Nodes | Deploy across Korea, Japan, US, Hong Kong, and more regions. |
 
 ---
 
-## 技术架构
+## Use Cases
+
+- **Cross-border E-commerce** — TikTok Shop, Shopee, Lazada multi-store matrix operations
+- **Social Media Marketing** — Multi-account management for TikTok, Instagram, Facebook
+- **Game AFK Farming** — Mobile game idle farming, auto-tasks, resource collection
+- **App Testing** — Real-device testing environments across multiple global regions
+- **Data Collection** — E-commerce and social media data scraping from overseas markets
+
+---
+
+## Technical Architecture
 
 ```
-云端服务器集群
+Cloud Server Cluster
     ↓ WebSocket / HTTP API
-云手机实例 (Android 10+)
-    ↓ 独立公网IP
-目标平台 (TikTok/FB/IG等)
+Cloud Phone Instance (Android 10+)
+    ↓ Dedicated Public IP
+Target Platform (TikTok/FB/IG/etc.)
 ```
 
-- 基于 AOSP 定制 Android 系统
-- 独立网络命名空间，每设备独立IP
-- RESTful API + WebSocket 实时控制
-- 支持 ADB 远程调试、屏幕串流
+- Custom AOSP-based Android system
+- Independent network namespace per device
+- RESTful API + WebSocket real-time control
+- ADB remote debugging and screen streaming support
 
 ---
 
-## 快速开始
+## Quick Start
 
-### 1. 访问官网
+### 1. Visit Our Website
 👉 [https://www.qtphone.com](https://www.qtphone.com)
 
-### 2. 联系开通
+### 2. Contact Us for Access
 - WhatsApp: [@along915](https://wa.me/15813333615)
 - Telegram: [@Alongyun](https://t.me/Alongyun)
 - Email: [ailong9281@gmail.com](mailto:ailong9281@gmail.com)
 
-### 3. API 接入
-参考演示脚本：[qtphone-demo/ip_check.py](https://github.com/luoshixin93-sudo/qtphone-demo)
+### 3. API Integration
+Check out our demo scripts: [qtphone-demo/ip_check.py](https://github.com/luoshixin93-sudo/qtphone-demo)
 
 ---
 
-## 试用申请
+## Get a Trial
 
-**试用入口：**
+**Trial Entry Points:**
 
-- 🌍 官网主页：[https://www.qtphone.com](https://www.qtphone.com)
-- 📱 WhatsApp：[@along915](https://wa.me/15813333615)
-- 💬 Telegram：[@Alongyun](https://t.me/Alongyun)
-- 📧 Email：[ailong9281@gmail.com](mailto:ailong9281@gmail.com)
-
----
-
-## 演示仓库
-
-- [qtphone-demo](https://github.com/luoshixin93-sudo/qtphone-demo) — API 接入示例、设备状态检查脚本
+- 🌍 Official Website: [https://www.qtphone.com](https://www.qtphone.com)
+- 📱 WhatsApp: [@along915](https://wa.me/15813333615)
+- 💬 Telegram: [@Alongyun](https://t.me/Alongyun)
+- 📧 Email: [ailong9281@gmail.com](mailto:ailong9281@gmail.com)
 
 ---
 
-## 相关技术栈
+## Demo Repository
 
-我们关注并贡献以下开源生态：
-
-- [docker-android](https://github.com/budtmo/docker-android) — Docker 化 Android 模拟器
-- [Appium](https://github.com/appium/appium) — 移动应用自动化测试
-- [uiautomator2](https://github.com/openatx/uiautomator2) — Python Android UI 自动化
-- [Magisk](https://github.com/topjohnwu/Magisk) — Android 系统定制
+- [qtphone-demo](https://github.com/luoshixin93-sudo/qtphone-demo) — API integration examples, device status checker scripts
 
 ---
 
-## 联系我们
+## Related Tech Stack
 
-| 渠道 | 联系方式 |
-|------|----------|
-| 官网 | [qtphone.com](https://www.qtphone.com) |
+We actively follow and contribute to these open-source ecosystems:
+
+- [docker-android](https://github.com/budtmo/docker-android) — Dockerized Android emulator
+- [Appium](https://github.com/appium/appium) — Mobile app automation testing
+- [uiautomator2](https://github.com/openatx/uiautomator2) — Python Android UI automation
+- [Magisk](https://github.com/topjohnwu/Magisk) — Android system customization
+
+---
+
+## Contact Us
+
+| Channel | Contact |
+|---------|---------|
+| Website | [qtphone.com](https://www.qtphone.com) |
 | WhatsApp | [@along915](https://wa.me/15813333615) |
 | Telegram | [@Alongyun](https://t.me/Alongyun) |
 | Email | [ailong9281@gmail.com](mailto:ailong9281@gmail.com) |
 
 ---
 
-*QTPhone — 让跨境业务更简单*
+*QTPhone — Making Cross-border Business Easier*
